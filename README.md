@@ -10,3 +10,5 @@ Código fonte: <a href="https://github.com/emelynfreire/introducao-ao-arduino/bl
 Imagem do prótipo hardware:
 
 <img src="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/imgs/projeto_semafaro_atividade_1.PNG?raw=true">
+
+<iframe width="560" height="350" src="https://www.tinkercad.com/embed/jvRW4QaWKiE?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
