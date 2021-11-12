@@ -7,9 +7,17 @@ Ao ligar o arduino o semáfaro irá funcionar constantemente alternando entre os
 
 Código fonte: <a href="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/atividade_1_sem_faro_de_tr_nsito1.ino">Clique aqui</a>
 
-Simule no Thinkercad:  <a href="https://www.tinkercad.com/things/jvRW4QaWKiE-atividade-1-semafaro-de-transito">Clique aqui</a>
-
 Imagem do prótipo hardware:
 
 <img src="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/imgs/projeto_semafaro_atividade_1.PNG?raw=true">
 
+
+
+# PROJETO 2 - SEMÁFARO DE TRANSITO
+Projeto com um botão e um led. Ao pressionar uma vez o botão, o led deverá acender e apagar 5 vezes (piscar 5 vezes), e em seguida deve voltar a ficar apagado, até que o botão seja novamente pressionado.
+
+Código fonte: <a href="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/atividade_2_emelyn1.ino">Clique aqui</a>
+
+Imagem do prótipo hardware:
+
+<img src="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/imgs/atividade2-ligando-led-com-botao.PNG?raw=true">
