@@ -7,8 +7,9 @@ Ao ligar o arduino o semáfaro irá funcionar constantemente alternando entre os
 
 Código fonte: <a href="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/atividade_1_sem_faro_de_tr_nsito1.ino">Clique aqui</a>
 
+Simule no Thinkercad:  <a href="https://www.tinkercad.com/things/jvRW4QaWKiE-atividade-1-semafaro-de-transito">Clique aqui</a>
+
 Imagem do prótipo hardware:
 
 <img src="https://github.com/emelynfreire/introducao-ao-arduino/blob/main/imgs/projeto_semafaro_atividade_1.PNG?raw=true">
 
-<iframe width="560" height="350" src="https://www.tinkercad.com/embed/jvRW4QaWKiE?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
